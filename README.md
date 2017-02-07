@@ -1,2 +1,2 @@
-# GraceConnelly.github.io
-Landing page to describe myself
+# GraceConnelly
+Java Backend Engineer
